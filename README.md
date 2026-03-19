@@ -1,5 +1,4 @@
-Markdown
-Copy code
+
 # Dr TLemon AI Systems – Lead Capture & Automation Platform
 
 A modern AI business website with integrated lead capture, email notifications, and WhatsApp alerts. This project helps collect, manage, and respond to potential clients in real time.
